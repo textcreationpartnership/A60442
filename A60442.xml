@@ -1,0 +1,474 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A paper shewing who are the true spouse of Christ and who are not</title>
+            <author>Smith, Humphrey, d. 1663.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1662</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 14 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A60442</idno>
+            <idno type="STC">Wing S4070</idno>
+            <idno type="STC">ESTC R23648</idno>
+            <idno type="EEBO-CITATION">07869691</idno>
+            <idno type="OCLC">ocm 07869691</idno>
+            <idno type="VID">40195</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A60442)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 40195)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1213:7)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A paper shewing who are the true spouse of Christ and who are not</title>
+                  <author>Smith, Humphrey, d. 1663.</author>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for M.W.,</publisher>
+                  <pubPlace>[S.l. :</pubPlace>
+                  <date>1662?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>In verse.</note>
+                  <note>Caption title.</note>
+                  <note>Work signed: Humphery Smith.</note>
+                  <note>Imprint from NUC pre-1956 imprints.</note>
+                  <note>Imperfect: pages cropped with print show-through.</note>
+                  <note>Reproduction of original in the Cambridge University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Society of Friends --  Controversial literature.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-03</date>
+            <label>John Latta</label>Sampled and proofread</change>
+         <change>
+            <date>2013-03</date>
+            <label>John Latta</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="treatise">
+            <pb facs="tcp:40195:1"/>
+            <pb n="1" facs="tcp:40195:1" rendition="simple:additions"/>
+            <head>A Paper ſhewing who are the true Spouſe of Chriſt, and who are not.</head>
+            <p>THe true Sponſe of Chriſt, <hi>is his true Church which is in God our Father, 1</hi> Theſ. <hi>1, 1.</hi> which hears his voice, feels his power, and is made one with him, that is the light &amp; have him neer unto her, even in her boſome, &amp; brings forth increaſe by vertue of his power or life that is in her, who is not of the world as he is not of the world but is bated by the world, as now under the reproachful name of Quakers, &amp; the like.</p>
+            <p>The Whore is not truely eſpouſed to Chriſt, nor one with him, but is the falſe Church which is not in God who is a ſpirit, but is in &amp; of the world which iso poſite to the ſpirit, and ſpiritual worſhip, which hears not the voice of Chriſt (but onely the letter or men reading in a book which ſuch as are not Chriſts ſheep may hear read and know) neither doth ſhe feel his power, but denies them that do, or that any do, neither is ſhe made one with him that is the light, <hi>nor have him ſo neer unto her as within the hope of Glory, Col. 1. 27.</hi> but only as far as above the skies, or as Ieruſaleni, and ſo far from increaſing in the increaſes of God, <hi>Col. 2. 19.</hi> or in the fruit of the ſpirit, or to in<g ref="char:EOLhyphen"/>creaſe her number by vertue thereof; but onely by an outward power, law, learning, or letter that killeth <hi>2 Cor. 3. 6.</hi> which harlot or falſe Church is of the world, and not of Chriſt, and hath the worlds love, being truely named <hi>Myſtery Babylon,</hi> the Mother of harlots, <hi>Out of which God hath redeemed us, Rev, 18. 4.</hi>
+            </p>
+            <p>Now this falſe Church and painted harlot, having not Gods power in her to uphold her, is upheld by mans power, and is alwaies ſubject to the changeableneſſe thereof, <hi>which Church or harlot is to fall with great violence, Rev. 18. 21.</hi>
+            </p>
+            <p>Then now will I leave it to underſtanding men to judge, whether ever there were greater <hi>violence</hi> in this confuſed mother of harlots then now is; with what <hi>violence</hi> are ſome of her late chiefeſt pillers now going down, that upheld her a long time? and with what <hi>violence</hi> are others ſetting up, which <hi>violence</hi> cauſeth the people to miſtak<gap reason="illegible: blotted" extent="1 letter">
+                  <desc>•</desc>
+               </gap> them, and ſo to cry them down, and what <hi>violence</hi> is uſed in her between her Prieſts and teachers themſelves one againſt another, and all compaſſing the holy City about in which God dwelleth, (who promiſed and doth dwell in his people) as though they would devour <hi>(us)</hi> all at once, but whether our help be of ourſelves or from heaven, rea<gap reason="illegible: page cropped" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <hi>Rev. 20. 9.</hi> and ſo let all judge whether <hi>violence</hi> be not begun.</p>
+            <p>And again at <hi>Babylons</hi> fall the Saints <hi>rejoyce,</hi> according as it is ſaid <hi>rejoyce o<g ref="char:EOLhyphen"/>ver</hi> (not bowing under) <hi>her my people, Rev. 18. 20.</hi>
+            </p>
+            <p>And ſeeing Gods ſervants do begin to rejoyce and ſhout for joy (though few can he<gap reason="illegible: page cropped" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> it) and make melody in their hearts to the Lord, notwithſtanding they are with muc<gap reason="illegible: page cropped" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <hi>violence</hi> perſecuted, ſlandered, all manner of evil ſpoken againſt them, and caſt out o<gap reason="illegible: page cropped" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the Sinagogues, threatned to be curſed out of their Church (becauſe they cannot ge<gap reason="illegible: page cropped" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <gap reason="illegible: blotted" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> in) and brought before Rulers for his names ſake, who ſaid <hi>I am the light,</hi> Iohn <gap reason="illegible: page cropped" extent="1 line">
+                  <desc>〈1 line〉</desc>
+               </gap>
+               <pb n="2" facs="tcp:40195:2" rendition="simple:additions"/>Re<gap reason="illegible: blotted" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>. <hi>10. 8. which turns to us for a teſtimony,</hi> Luke <hi>21. 13.</hi>
+            </p>
+            <p>Now men may mind the words of Christ, when the ſigns begin to come to <gap reason="illegible: in gutter" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <hi>then thereby to know what is neer,</hi> Luke <hi>21. 30. 31.</hi>
+            </p>
+            <p>And now being it is ſo that <hi>Babel</hi> is to fall with great <hi>violence,</hi> and that the ſer<g ref="char:EOLhyphen"/>vants and Prophets of God are then to <hi>rejoyce.</hi>
+            </p>
+            <p>And ſeeing alſo that they who are come out of her do begin to <hi>rejoyce</hi> over her.</p>
+            <p>Let it now be conſidered what is to follow, or what God will bring to paſſe, or what is neer at hand, and whether the deſtruction be not neer when they cry peace, all th<gap reason="illegible: blotted" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> are ſafe, or whether the dreadful coming of Christ be not at the midst of the dark night, like a theif, upon all the ungodly werkers of darkneſſe, over whom the Saints re<g ref="char:EOLhyphen"/>joyce</p>
+            <p>
+               <hi>My heart is filled with the power of God.</hi>
+            </p>
+            <div type="poem">
+               <head>144 Lines of ſecret inward melody, not written to lift up any from that which gives it.</head>
+               <lg>
+                  <l>MY heart ſhall ſing of thee</l>
+                  <l>who doeſt my ſoul defend,</l>
+                  <l>Whoſe life hath ſaved me,</l>
+                  <l>Who didſt my waies amend.</l>
+               </lg>
+               <lg>
+                  <l>Whoſe ſtrength hath me upheld</l>
+                  <l>Whoſe love is in me ſtill;</l>
+                  <l>Whoſe grace doth vertue yield,</l>
+                  <l>Who haſt taught me thy will.</l>
+               </lg>
+               <lg>
+                  <l>Oh bleſſed be thy name,</l>
+                  <l>Who haſt my life redeemd</l>
+                  <l>That I may ſound the ſame</l>
+                  <l>With them that once were grievd.</l>
+               </lg>
+               <lg>
+                  <l>Oh let me now rejoyce</l>
+                  <l>And praiſe the Lord my ſtrength</l>
+                  <l>Who long hath been my choice,</l>
+                  <l>And drawn my dayes in length.</l>
+               </lg>
+               <lg>
+                  <l>Oh that I could declare,</l>
+                  <l>Unto the ſons of men,</l>
+                  <l>His gifts and riches rare</l>
+                  <l>Which he hath yet for them.</l>
+               </lg>
+               <lg>
+                  <l>Oh that my heart could dite</l>
+                  <l>The goodneſſe of his love,</l>
+                  <l>Or that my pen could write</l>
+                  <l>His mercies yet above.</l>
+               </lg>
+               <lg>
+                  <l>Oh that I might expreſſe</l>
+                  <l>With heart, with tongue or pen</l>
+                  <l>His ſweet delight ſomneſſe</l>
+                  <l>
+                     <gap reason="illegible: page cropped" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> men</l>
+               </lg>
+               <lg>
+                  <l>Oh that I could unfold</l>
+                  <l>Or in meekneſſe declare</l>
+                  <l>His ſtrength which maketh bold.</l>
+                  <l>And keepeth from the ſnart.</l>
+               </lg>
+               <lg>
+                  <l>Behold his Throne is love</l>
+                  <l>His ſeat is mercy pure</l>
+                  <l>Deſcending from above</l>
+                  <l>Is he both day and houre.</l>
+               </lg>
+               <lg>
+                  <l>Behold his glory ſhines</l>
+                  <l>Unto his jewels rare</l>
+                  <l>He viſits them betimes</l>
+                  <l>When they in darkeneſſe are.</l>
+               </lg>
+               <lg>
+                  <l>Behold his heart is bent</l>
+                  <l>Towards his little ones</l>
+                  <l>His love their hearts doth rent</l>
+                  <l>And in his vertue comes.</l>
+               </lg>
+               <lg>
+                  <l>Behold he draweth neer</l>
+                  <l>To all the poor and weake,</l>
+                  <l>And he to them is dear</l>
+                  <l>Who will them not for ſake.</l>
+               </lg>
+               <lg>
+                  <l>Behold he doth ariſe</l>
+                  <l>In might vertue and power,</l>
+                  <l>To bring in his loſt priſe</l>
+                  <l>Into his refuge Tower.</l>
+               </lg>
+               <lg>
+                  <l>The weak he doth defend</l>
+                  <l>The poor he ſtill uphold,</l>
+                  <l>For needy he contend</l>
+                  <l>And <gap reason="illegible: page cropped" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> them more then Gold.</l>
+               </lg>
+               <lg>
+                  <pb n="3" facs="tcp:40195:2" rendition="simple:additions"/>
+                  <l>His Lambs he ſtill doth lead</l>
+                  <l>His little ones he teach</l>
+                  <l>The hungry have his bread</l>
+                  <l>The thirſty he refreſh.</l>
+               </lg>
+               <lg>
+                  <l>He makes the feeble ſtrong</l>
+                  <l>He makes the barren bear</l>
+                  <l>He leads the blind along,</l>
+                  <l>
+                     <gap reason="illegible: in gutter" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> the light most clear.</l>
+               </lg>
+               <lg>
+                  <l>He cometh as a dew,</l>
+                  <l>In heat of Summer time</l>
+                  <l>
+                     <gap reason="illegible: in gutter" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> his plants below</l>
+                  <l>That forth their fruit may ſhine.</l>
+               </lg>
+               <lg>
+                  <l>He feedeth every babe</l>
+                  <l>He ſeeketh every loſt,</l>
+                  <l>His love doth never fade</l>
+                  <l>For his he ſpares no cost.</l>
+               </lg>
+               <lg>
+                  <l>His life virtue and ſtrength</l>
+                  <l>His wiſdome and his power,</l>
+                  <l>He gives to his at length</l>
+                  <l>And they of him are ſuer.</l>
+               </lg>
+               <lg>
+                  <l>He never doth for ſake</l>
+                  <l>His dear and little flock,</l>
+                  <l>Who of that bread partake</l>
+                  <l>Thats hidden in the rock.</l>
+               </lg>
+               <lg>
+                  <l>The heavens and the earth</l>
+                  <l>He with himſelf doth fill</l>
+                  <l>He dwelleth in our hearts</l>
+                  <l>And doth reveale his will.</l>
+               </lg>
+               <lg>
+                  <l>He maketh known his way</l>
+                  <l>That all his flock ſhall goe,</l>
+                  <l>And them in light aray</l>
+                  <l>
+                     <gap reason="illegible: in gutter" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> to withſtand the foe.</l>
+               </lg>
+               <lg>
+                  <l>He helps in time of need</l>
+                  <l>
+                     <gap reason="illegible: in gutter" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> leaves not in diſtreſs,</l>
+                  <l>He doth effect the deed</l>
+                  <l>Of mans deliverance.</l>
+               </lg>
+               <lg>
+                  <l>He caſteth down to hell</l>
+                  <l>
+                     <gap reason="illegible: in gutter" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>is power is ſo great</l>
+                  <l>
+                     <gap reason="illegible: in gutter" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> doth the living kill</l>
+                  <l>And none can him defeat.</l>
+               </lg>
+               <lg>
+                  <l>He raiſeth from the grave</l>
+                  <l>And makes the dead alive</l>
+                  <l>From him there's none can ſave</l>
+                  <l>Nor from his preſence hide.</l>
+               </lg>
+               <lg>
+                  <l>Hee's alwaies neer at hand</l>
+                  <l>From trouble to deliver,</l>
+                  <l>Hee's joynd with his in band</l>
+                  <l>To live with them for ever.</l>
+               </lg>
+               <lg>
+                  <l>No God is like to him</l>
+                  <l>No honour like to his,</l>
+                  <l>No man is ſaid to win</l>
+                  <l>Whoſe ſoul is loſt from bliſſe.</l>
+               </lg>
+               <lg>
+                  <l>O prayſe him all ye Saints</l>
+                  <l>Who feels his vertue neer,</l>
+                  <l>Unto him ſtill give thanks</l>
+                  <l>Who is our Father deer.</l>
+               </lg>
+               <lg>
+                  <l>Let wicked men lament</l>
+                  <l>Let all ungodly howl,</l>
+                  <l>Too late ſhall ſome repent</l>
+                  <l>When down his judgements roule.</l>
+               </lg>
+               <lg>
+                  <l>When <hi>Babels</hi> turnd in lake</l>
+                  <l>When beaſt is thither thrown,</l>
+                  <l>When drunkards reele and ſhake</l>
+                  <l>When wrath is powred down.</l>
+               </lg>
+               <lg>
+                  <l>When vengeance much with might</l>
+                  <l>Is poured on the Whore</l>
+                  <l>And all ſecret deceit</l>
+                  <l>Deſtroyd for evermore.</l>
+               </lg>
+               <lg>
+                  <l>Then <hi>Sion</hi> ſhall be glad</l>
+                  <l>Then God ſhall honoured be,</l>
+                  <l>Then prayſes ſhall be had</l>
+                  <l>Then worſhip ſhall be free</l>
+               </lg>
+               <lg>
+                  <l>Then comfort ſhall abound</l>
+                  <l>In all true mourning lambs,</l>
+                  <l>And Goſpel free ſhall ſound</l>
+                  <l>Throughout all nation Lands.</l>
+               </lg>
+               <lg>
+                  <l>The times hereof's at hand</l>
+                  <l>The Captives ſhall be free</l>
+                  <l>Gods ſeed in every land</l>
+                  <l>By him ſhall g<gap reason="illegible: missing" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap>thered be.</l>
+               </lg>
+               <lg>
+                  <pb n="4" facs="tcp:40195:3" rendition="simple:additions"/>
+                  <l>Let friends rejoyce in fear</l>
+                  <l>Let fear in love abound,</l>
+                  <l>Let <hi>Thouſands</hi> more draw neer</l>
+                  <l>For we the pearl have found,</l>
+               </lg>
+               <lg>
+                  <l>Let all in patience dwell</l>
+                  <l>And in the Lord ſtill truſt,</l>
+                  <l>That we in love excel</l>
+                  <l>In which with you I reſt.</l>
+               </lg>
+            </div>
+            <div type="document">
+               <p>As I was walking alone in my cloſe Priſon at <hi>Wincheſter,</hi> upon the <hi>24</hi>th day of the <hi>5</hi>th. month <hi>62.</hi> in much quietneſſe and inward refreſhings by the riſing vertue of Gods refreſhing love; theſe lines began to run gently through me, with melody in my heart to the Lord and when I was free in my ſelf to begin to write, it departed not from me but came ſo eaſie and ſo faſt as I could well right, whereby in a very little part of the foreſaid day this was begun and finiſhed with ney own hand; yet would not I have looked upon to be a great thing, nor a pattern nor example for others to run into the like for ſince I came into the life and obedience of truth, I durst not write any thing in verſe until this time.</p>
+               <closer>
+                  <signed>Humphery Smith.</signed>
+               </closer>
+            </div>
+            <div type="document">
+               <head>The 30th. of the 4th. month, 62.</head>
+               <p>AS in a viſion the Sheep that I ſaw, they lodged on the ſide of a Mountain as high as Heaven, and they lay one by another, and one upon another, yet not in the leaſt offenſive one to another, but lay as quiet and as loveing as if they had been aſleep, or ſleeping one by and upon another, yet were perfectly awake: And though the whole world roaled from under them, whereby they were like to fall, and no viſible ground or thing was ſeen to receive them or to fall upon (which was in ſuch a manner that <gap reason="illegible: in gutter" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> cannot well expreſſe it) yet were they not afraid thereat but lay as quiet in themſelves as before, being upheld by an inviſible power; and they that were tumbling down, <gap reason="illegible: in gutter" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> were falling, had not the leaſt harme; but their removeal was to them as it is to a<gap reason="illegible: in gutter" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> child to be removed in the Nurſes Armes, out of one place to another, (more then it expreſſe) or though ſome of them ſeemed to be a little removed, or to fall, when th<gap reason="illegible: in gutter" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> whole world roaled from under them (which was but to try them) yet they that <gap reason="illegible: in gutter" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> ſo were not in the leaſt harmed thereby but were very well ſupported, &amp; in a <gap reason="illegible: in gutter" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> were recovered, and climbed up the most ſteepeſt mount of the whole world that was <gap reason="illegible: in gutter" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>fore them; and as for themſelves they were more large, fair, and comely than ever <gap reason="illegible: in gutter" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> natural eyes beheld, and their wool was all over them as perfect ſhining gold.</p>
+               <p>After I had written this little thing and had alſo found that it was ſhewed <gap reason="illegible: in gutter" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> the very time that the Rulers of the Earth in <hi>London</hi> began to deprive friends of <gap reason="illegible: in gutter" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> worldly helps and things which ſeemed thereby to be wholly rolling from them <gap reason="illegible: in gutter" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> did I ſend one coppy of it to a friend in that City to ſee, who informing me that <gap reason="illegible: in gutter" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> friends deſired to ſee it: wherefore I thus open it more plainly.</p>
+               <p>The world was the outward viſible world, with all things that are upon it, or per<gap reason="illegible: in gutter" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>ning to it; the rolling away of it was ſo that nothing thereof was left them at that <gap reason="illegible: in gutter" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> to lay hold on, or to stay themſelves upon. As for the ſheep Chriſt termed his <gap reason="illegible: in gutter" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 
+                  <gap reason="illegible: in gutter" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>thren and members ſo, and as for their wooll they had aboundance thereof upon th<gap reason="illegible: in gutter" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> yet no more then comely or rather glorious, and it was as Armor to them not to be <gap reason="illegible: in gutter" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>ced through, nor to be taken from them, neither was it in the least defiled, which <gap reason="illegible: in gutter" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>
+               </p>
+            </div>
+         </div>
+         <div type="colophon">
+            <p>Printed for M. W.</p>
+            <trailer>The End</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
